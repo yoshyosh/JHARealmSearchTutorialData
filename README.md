@@ -1,1 +1,1 @@
-Some blog post and emoji data for ABFRealmSearchViewController
+Blog post and emoji data for ABFRealmSearchViewController
